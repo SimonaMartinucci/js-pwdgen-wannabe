@@ -16,3 +16,27 @@ h1 {
     padding-top: 30px;
     padding-left: 25px;
 }
+
+/* MAIN */
+main {
+    background-color: aqua;
+    height: calc(100vh - 100px);
+}
+
+.container {
+    padding: 25px;
+    width: 50%;
+}
+
+.container h2 {
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+#password {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px 0;
+}
